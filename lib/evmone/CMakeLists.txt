@@ -69,4 +69,4 @@ endif()
 
 set_source_files_properties(vm.cpp PROPERTIES COMPILE_DEFINITIONS PROJECT_VERSION="${PROJECT_VERSION}")
 
-add_standalone_library(evmone)
+# add_standalone_library(evmone)
